@@ -8,3 +8,5 @@
 set global time_zone='+8:00';
 
 再次连接成功
+
+netstat -aon|findstr "8001"  
